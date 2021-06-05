@@ -36,8 +36,10 @@
 
 ## 🔥 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=J-Roma&show_icons=true&theme=radical" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Roma&langs_count=5&layout=compact&theme=radical" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=J-Roma&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Roma&langs_count=5&layout=compact&theme=radical" />
+</p>
 
 
 
