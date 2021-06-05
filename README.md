@@ -3,10 +3,9 @@
 ##About Me
 
 ## 🔥 Streak stats
-<img src="http://github-readme-streak-stats.herokuapp.com?user=J-Roma&theme=monokai" />
 
 
-
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=J-Roma&theme=monokai" /></p>
 
 <!--
 **J-Roma/J-Roma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
