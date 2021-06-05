@@ -1,11 +1,4 @@
-### Hi, I'm Jhosep 👋
-
-### About Me
-
-## 🔥 Streak stats
-
-
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=J-Roma&theme=radical" /></p>
+## Hi, I'm Jhosep 👋
 
 ## 🛠️ My favorite tools
 
@@ -35,6 +28,10 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>    
 
 </p>
+
+## 🔥 Streak stats
+
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=J-Roma&theme=radical" /></p>
 
 
 ## 🔥 GitHub Stats
