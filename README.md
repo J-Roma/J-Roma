@@ -5,7 +5,7 @@
 ## 🔥 Streak stats
 
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=J-Roma&theme=monokai" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=J-Roma&theme=radical" /></p>
 
 ## 🛠️ My favorite tools
 
